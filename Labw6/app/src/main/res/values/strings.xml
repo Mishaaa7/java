@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Labw6</string>
+    <string name="q">+</string>
+    <string name="qq">\'+\'</string>
+    <string name="minus">-</string>
+    <string name="umn">*</string>
+    <string name="delenie">/</string>
+    <string name="xor">xor</string>
+    <string name="mod">mod</string>
+    <string name="x_bin">x bin</string>
+    <string name="res">=</string>
+    <string name="clear">clear</string>
+    <string name="result">Result</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+</resources>

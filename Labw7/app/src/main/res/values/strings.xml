@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labw7</string>
+    <string name="ф">Сбросить</string>
+    <string name="string">\@string/ф</string>
+    <string name="angry">angry</string>
+    <string name="Сбросить">Сбросить</string>
+</resources>
